@@ -11,9 +11,9 @@ redirect_from:
 
 Contact Information
 ======
-* Singapore Management University
-  School of Economics
-  90 Stamford Road
+* Singapore Management University   
+  School of Economics   
+  90 Stamford Road   
   Singapore 178903
 * qyli.2019@phdecons.smu.edu.sg
 
