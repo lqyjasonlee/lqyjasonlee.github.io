@@ -9,32 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+Contact Information
+======
+* Singapore Management University
+  School of Economics
+  90 Stamford Road
+  Singapore 178903
+* qyli.2019@phdecons.smu.edu.sg
+
+Research Interests
+======
+  * Time Series Econometrics
+  * Financial Econometrics
+  * Econometrics Theory
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Economics, Singapore Management University, 2024 (expected)
+* M.S. in Quantitative Economics, Capital University of Economics and Business, 2019
+* B.A. in Economics, Capital University of Economics and Business, 2016
 
-Work experience
+Honors and Scholarships
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Awards
+  * Best 1st Year PhD student, 2019
+  * 2nd Prize in the 25th Beijing Higher Mathematics Competition, 2014
+  * 3rd Prize in the 24th Beijing Higher Mathematics Competition, 2013
+  * 3rd Prize in semifinal of the 27th Chinese Mathematical Olympiad in Senior, 2011 
+  * 2nd Prize in the 2011 Jiangsu Mathematical Olympic Summer Camp, 2011
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Scholarships
+  * PhD Full Scholarship, Singapore Management University, 2019-2013
+  * China National Scholarship for Graduate Students, 2018
+  * The 1st Class Academic Scholarship, Capital University of Economics and Business, 2017 
+  * Freshmen Scholarship for Graduate Students, Capital University of Economics and Business, 2016
 
 Publications
 ======
@@ -42,9 +50,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Work in Progress
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
@@ -54,6 +62,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Python
+* LaTeX
+* MATLAB
