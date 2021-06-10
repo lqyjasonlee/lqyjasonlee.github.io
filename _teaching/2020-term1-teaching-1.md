@@ -2,7 +2,7 @@
 title: "TA for ECON611 Econometrics I (PhD level)"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2020-term2-teaching-1
+permalink: /teaching/2020-term1-teaching-1
 venue: "Singapore Management University, School of Economics"
 date: 2020-08-15
 location: "Singapore, Singapore"
