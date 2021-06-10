@@ -8,5 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Expert in kindergarten level mathematics.
+Expert in kindergarten level mathematics.  
+
+Noob DotA2 player (mid), MMR 3500.  
+
+Founder of SMU SoE board game club. 
 
