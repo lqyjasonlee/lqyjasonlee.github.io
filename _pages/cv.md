@@ -39,7 +39,7 @@ Honors and Scholarships
   * 2nd Prize in the 2011 Jiangsu Mathematical Olympic Summer Camp, 2011
 
 * Scholarships
-  * PhD Full Scholarship, Singapore Management University, 2019-2013
+  * PhD Full Scholarship, Singapore Management University, 2019-2023
   * China National Scholarship for Graduate Students, 2018
   * The 1st Class Academic Scholarship, Capital University of Economics and Business, 2017 
   * Freshmen Scholarship for Graduate Students, Capital University of Economics and Business, 2016
