@@ -10,7 +10,8 @@ redirect_from:
 
 Expert in kindergarten level mathematics.  
 
-Noob DotA2 player (mid), MMR 3500.  
+Noob DotA2 player (mid), MMR 3500.   
 
-Founder of SMU SoE board game club. 
+Founder of SMU SoE PhD board game club. 
+(email [qyli.2019@phdecons.smu.edu.sg] if you want to join us)
 
