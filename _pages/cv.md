@@ -33,8 +33,8 @@ Honors and Scholarships
 ======
 * Awards
   * Best 1st Year PhD student, 2019
-  * 2nd Prize in the 25th Beijing Higher Mathematics Competition, 2014
-  * 3rd Prize in the 24th Beijing Higher Mathematics Competition, 2013
+  * 2nd Prize in the 25th Beijing Mathematics Competition for College Students, 2014
+  * 3rd Prize in the 24th Beijing Mathematics Competition for College Students, 2013
   * 3rd Prize in semifinal of the 27th Chinese Mathematical Olympiad in Senior, 2011 
   * 2nd Prize in the 2011 Jiangsu Mathematical Olympic Summer Camp, 2011
 
