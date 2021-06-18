@@ -15,7 +15,7 @@ Contact Information
   School of Economics   
   90 Stamford Road   
   Singapore 178903
-* qyli.2019@phdecons.smu.edu.sg
+* [qyli.2019@phdecons.smu.edu.sg](mailto:qyli.2019@phdecons.smu.edu.sg)  
 
 Research Interests
 ======
