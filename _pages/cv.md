@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-# Contact Information
-======
+## Contact Information
+
 * Singapore Management University   
   School of Economics   
   90 Stamford Road   
@@ -18,19 +18,19 @@ redirect_from:
 * [qyli.2019@phdecons.smu.edu.sg](mailto:qyli.2019@phdecons.smu.edu.sg)  
 
 ## Research Interests
-======
+
   * Time Series Econometrics
   * Financial Econometrics
   * Econometrics Theory
 
-Education
-======
+## Education
+
 * Ph.D. in Economics, Singapore Management University, 2024 (expected)
 * M.S. in Quantitative Economics, Capital University of Economics and Business, 2019
 * B.A. in Economics, Capital University of Economics and Business, 2016
 
-Honors and Scholarships
-======
+## Honors and Scholarships
+
 * Awards
   * Best 1st Year PhD student, 2019
   * 2nd Prize in the 25th Beijing Mathematics Competition for College Students, 2014
@@ -44,26 +44,26 @@ Honors and Scholarships
   * The 1st Class Academic Scholarship, Capital University of Economics and Business, 2017 
   * Freshmen Scholarship for Graduate Students, Capital University of Economics and Business, 2016
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Work in Progress
-======
+## Work in Progress
+
   <ul>{% for post in site.publications %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Skills
-======
+## Skills
+
 * Python
 * LaTeX
 * MATLAB
