@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-#Contact Information
+# Contact Information
 ======
 * Singapore Management University   
   School of Economics   
@@ -17,7 +17,7 @@ redirect_from:
   Singapore 178903
 * [qyli.2019@phdecons.smu.edu.sg](mailto:qyli.2019@phdecons.smu.edu.sg)  
 
-#Research Interests
+## Research Interests
 ======
   * Time Series Econometrics
   * Financial Econometrics
