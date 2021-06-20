@@ -11,5 +11,5 @@ redirect_from:
 > <p align="right">William Brandt, MISSION: IMPOSSIBLE ROGUE NATION</p>
 
 <figure>
-    <img class="welcome" src="images/MI.gif" alt="MI">
+    <src="images/MI.gif">
 </figure>
