@@ -66,9 +66,9 @@
       {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
-      {% if author.mathstack %}
-        <li><a href="{{ author.mathstack }}" target="_blank"><i class="fab fa-fw fa-stack-exchange" aria-hidden="true"></i> Math.SE</a></li>
       {% endif %}
+      {% if author.mathstack %}
+        <li><a href="{{ author.mathstack }}" target="_blank"><i class="fab fa-fw fa-stack-exchange" aria-hidden="true" style="color:black"></i> Math.SE</a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
