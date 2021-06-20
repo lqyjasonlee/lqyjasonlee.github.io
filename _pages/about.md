@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+## About Me
+
 Expert in kindergarten level mathematics.  
 
 Noob DotA2 player (mid), MMR 3500.   
