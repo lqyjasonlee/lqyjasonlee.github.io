@@ -7,6 +7,7 @@ redirect_from:
   - /research.html
 ---
 
-I can neither confirm nor deny any specific action without the Secretary's approval.
-<h1 style="text-align:right">William Brandt, *MISSION: IMPOSSIBLE ROGUE NATION*</h1>
-{: .notice}
+> I can neither confirm nor deny any specific action without the Secretary's approval.
+> <h1 style="text-align:right">William Brandt, *MISSION: IMPOSSIBLE ROGUE NATION*</h1>
+
+![](MI.gif)
