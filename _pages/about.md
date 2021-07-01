@@ -14,8 +14,8 @@ Expert in kindergarten level mathematics.
 
 Noob DotA2 player (mid), MMR 3500.   
 
-Founder of SMU SoE PhD board game club.  
-(email [qyli.2019@phdecons.smu.edu.sg](mailto:qyli.2019@phdecons.smu.edu.sg) if you want to join us)  
+Founder of SMU SoE PhD [board game club](https://lqyjasonlee.github.io/boardgame/).  
+(email [me](mailto:qyli.2019@phdecons.smu.edu.sg) if you want to join us)  
 
 Social Vegan, I avoid meet.
 
