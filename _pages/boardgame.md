@@ -16,6 +16,7 @@ activities, including board games, escape rooms, murder mistries.
 
 Current member: Dennis Lim, Naiyuan Hu, Qiyuan Li, Xincheng Huang, Xue Zhang, *Yiren Wang*, *Yifan Wu*.
 
+
 ### Board Games
 
 We offer different types of games, you are also welcome to bring your own game and introduce to us. 
@@ -23,6 +24,10 @@ We offer different types of games, you are also welcome to bring your own game a
 * Traditional board games: **Betrayal at House on the Hill**[^1]，**Citadal**[^2], **The Message**[^3] 
 * Babbling games: **One Night Werewolf**[^4], **Avalon**[^5]
 * Party games: **Exploding Cats**[^6], **Mahjong**, **UNO**, **Poker**
+
+### News and Recent Activities
+
+2020 June: new members Timi & Coco, welcome!
 
 -----------
 [^1]: <https://boardgamegeek.com/boardgame/10547/betrayal-house-hill>  
