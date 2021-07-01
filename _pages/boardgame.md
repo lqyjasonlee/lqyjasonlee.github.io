@@ -11,10 +11,10 @@ redirect_from:
 
 ### About Us
 
-We are a group of SMU phd students, most of us are from school of economics. We will ~~constantly~~ organize off-line 
+We are a group of SMU phd students, most of us are from SoE. We will ~~constantly~~ organize off-line 
 activities, including board games, escape rooms, murder mistries.   
 
-Current memember: Dennis Lim, Naiyuan Hu, Qiyuan Li, Xincheng Huang, Xue Zhang, *Yiren Wang*, *Yifan Wu*.
+Current member: Dennis Lim, Naiyuan Hu, Qiyuan Li, Xincheng Huang, Xue Zhang, *Yiren Wang*, *Yifan Wu*.
 
 ### Board Games
 
@@ -24,7 +24,7 @@ We offer different types of games, you are also welcome to bring your own game a
 * Babbling games: **One Night Werewolf**[^4], **Avalon**[^5]
 * Party games: **Exploding Cats**[^6], **Mahjong**, **UNO**, **Poker**
 
-
+-----------
 [^1]: <https://boardgamegeek.com/boardgame/10547/betrayal-house-hill>  
 [^2]: <https://boardgamegeek.com/boardgame/205398/citadels>  
 [^3]: <https://boardgamegeek.com/boardgame/67919/message>  
