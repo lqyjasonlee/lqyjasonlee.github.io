@@ -27,7 +27,7 @@ We offer different types of games, you are also welcome to bring your own game a
 
 ### News and Recent Activities
 
-2020 August: Dennis bought a new board game **Ticket to Ride: Amsterdam**[^7]  
+2021 August: Dennis bought a new board game **Ticket to Ride: Amsterdam**[^7]  
 2020 June: New members Timi & Coco, welcome!
 
 -----------
