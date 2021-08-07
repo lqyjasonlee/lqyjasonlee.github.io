@@ -27,7 +27,9 @@ We offer different types of games, you are also welcome to bring your own game a
 
 ### News and Recent Activities
 
-2020 June: new members Timi & Coco, welcome!
+2020 August: Dennis bought a new board game **Ticket to Ride: Amsterdam**[^7]  
+
+2020 June: New members Timi & Coco, welcome!
 
 -----------
 [^1]: <https://boardgamegeek.com/boardgame/10547/betrayal-house-hill>  
@@ -36,4 +38,4 @@ We offer different types of games, you are also welcome to bring your own game a
 [^4]: <https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf>  
 [^5]: <https://boardgamegeek.com/boardgame/128882/resistance-avalon>  
 [^6]: <https://boardgamegeek.com/boardgame/172242/exploding-kittens-nsfw-deck>  
-
+[^7]: <https://boardgamegeek.com/boardgame/309113/ticket-ride-amsterdam>
