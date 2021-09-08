@@ -19,9 +19,8 @@ redirect_from:
 
 ### Research Interests
 
-  * Time Series Econometrics
-  * Financial Econometrics
   * Econometrics Theory
+  * Financial Econometrics
 
 ### Education
 
