@@ -14,7 +14,7 @@ redirect_from:
 We are a group of SMU phd students, most of us are from SoE. We will ~~constantly~~ organize off-line 
 activities, including board games, escape rooms, murder mistries.   
 
-Current member: Dennis Lim, Naiyuan Hu, Qiyuan Li, Xincheng Huang, Xue Zhang, *Yiren Wang*, *Yifan Wu*.
+Current member: Dennis Lim, Naiyuan Hu, Qiyuan Li, Xincheng Huang, Xue Zhang, *Feng Qiu*, *Yifan Wu*, *Yiren Wang*.
 
 
 ### Board Games
