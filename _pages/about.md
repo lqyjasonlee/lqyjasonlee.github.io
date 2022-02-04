@@ -14,7 +14,7 @@ Tech products lover.
 
 Certified Apple Teacher (in iPad, Mac, and Swift programming).
 
-<img src="{{site.url}}/images/AppleTeacher_black.png" height="20px"/><img src="{{site.url}}/images/AppleTeacherSwiftPlaygrounds_black.png" height="20px"/>
+<img src="{{site.url}}/images/AppleTeacher_black.png" height="20px" /><img src="{{site.url}}/images/AppleTeacherSwiftPlaygrounds_black.png" height="20px" />
 
 Expert in kindergarten level mathematics.  
 
