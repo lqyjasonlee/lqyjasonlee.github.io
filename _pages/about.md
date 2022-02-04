@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+## Fun Facts
+
+Tech products lover. Certified Apple Teacher (in iPad, Mac, and Swift programming).
+
+<img src="{{site.url}}/images/AppleTeacher_black.png" style="display: block; margin: auto;" /><img src="{{site.url}}/images/AppleTeacherSwiftPlaygrounds_black.png" style="display: block; margin: auto;" />
 
 Expert in kindergarten level mathematics.  
 
