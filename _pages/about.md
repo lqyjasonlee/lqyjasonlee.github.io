@@ -10,9 +10,11 @@ redirect_from:
 
 ## Fun Facts
 
-Tech products lover. Certified Apple Teacher (in iPad, Mac, and Swift programming).
+Tech products lover. 
 
-<img src="{{site.url}}/images/AppleTeacher_black.png" height="80"/><img src="{{site.url}}/images/AppleTeacherSwiftPlaygrounds_black.png" height="80"/>
+Certified Apple Teacher (in iPad, Mac, and Swift programming).
+
+<img src="{{site.url}}/images/AppleTeacher_black.png" height="10"/><img src="{{site.url}}/images/AppleTeacherSwiftPlaygrounds_black.png" height="10"/>
 
 Expert in kindergarten level mathematics.  
 
