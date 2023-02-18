@@ -2,7 +2,7 @@
 title: "Permutation‐based Tests for Discontinuities in Event Studies"
 collection: publications
 permalink: /publication/permutation
-date: 2023
+date: 2023-01-01
 venue: 'Quantitative Economics, 14(1), 37-70.'
 paperurl: 'http://lqyjasonlee.github.io/files/quan200248.pdf'
 citation: 'Bugni, F. A., Li, J., & Li, Q. (2023). Permutation‐based tests for discontinuities in event studies. <i>Quantitative Economics</i>, 14(1), 37-70.'
