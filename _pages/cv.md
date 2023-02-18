@@ -52,9 +52,7 @@ redirect_from:
   
 ### Work in Progress
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  1.
   
 ### Teaching
 
