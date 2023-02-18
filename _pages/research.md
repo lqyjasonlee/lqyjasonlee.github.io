@@ -11,3 +11,16 @@ redirect_from:
 > <p align="right">William Brandt, MISSION: IMPOSSIBLE ROGUE NATION</p>
 
 <img src="{{site.url}}/images/MI.gif" style="display: block; margin: auto;" />
+
+
+## Publications
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+## Work in Progress
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
