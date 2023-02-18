@@ -31,6 +31,7 @@ redirect_from:
 ### Honors and Scholarships
 
 * Awards
+  * Presidential Doctoral Fellowship, 2022
   * Best 1st Year PhD student, 2019
   * 2nd Prize in the 25th Beijing Mathematics Competition for College Students, 2014
   * 3rd Prize in the 24th Beijing Mathematics Competition for College Students, 2013
