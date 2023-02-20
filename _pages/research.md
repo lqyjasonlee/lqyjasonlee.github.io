@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 
-## Publications
+### Publications
 
   <ol>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
   
-## Work in Progress
+### Work in Progress
 
   
