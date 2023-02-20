@@ -46,7 +46,7 @@ redirect_from:
 
 ### Publications and Working Papers
 
-* [See Research](lqyjasonlee.github.io/research/)
+* [See Research](https://lqyjasonlee.github.io/research/)
   
 ### Teaching
 
