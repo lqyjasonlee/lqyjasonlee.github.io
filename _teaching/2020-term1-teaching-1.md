@@ -10,6 +10,6 @@ location: "Singapore, Singapore"
 
 Instructor: Prof. Yichong Zhang
 
-## Course description
+### Course description
 
 Econ 611 is the first course in the first year sequence in econometrics. The course is composed of two parts: statistics and econometrics. In the first part, statistics, we introduce the necessary tools and techniques that are essential in econometric analysis. In the second part, we discuss OLS, linear IV regression, and generalized method of moments.
