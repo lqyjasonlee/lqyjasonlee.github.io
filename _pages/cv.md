@@ -44,17 +44,9 @@ redirect_from:
   * The 1st Class Academic Scholarship, Capital University of Economics and Business, 2017 
   * Freshmen Scholarship for Graduate Students, Capital University of Economics and Business, 2016
 
-### Publications
+### Publications and Working Papers
 
-  <ol>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ol>
-  
-### Work in Progress
-
-  <ol>
-     <li>First item</li>
-  </ol>
+* [See Research](lqyjasonlee.github.io/research/)
   
 ### Teaching
 
