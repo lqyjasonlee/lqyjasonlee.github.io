@@ -50,9 +50,8 @@ redirect_from:
   
 ### Teaching
 
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  1. TA for ECON611 Econometrics I (phd course), 2020-2021, SMU, Instructor: Yichong Zhang
+  2. TA for ECON698 Continuous Time Financial Econometrics (master course), 2021-2023, SMU, Instructor: Jia Li
   
 ### Skills
 
