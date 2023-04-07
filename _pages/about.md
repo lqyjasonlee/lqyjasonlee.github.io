@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Fun Facts
+## Facts
 
 <!-- Tech products lover. 
 
