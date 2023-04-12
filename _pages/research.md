@@ -12,6 +12,8 @@ redirect_from:
 
 1. Permutation‐based Tests for Discontinuities in Event Studies [[pdf]](https://lqyjasonlee.github.io/files/quan200248.pdf) <br>
    with Federico Bugni and Jia Li. ***Quantitative Economics***, 14(1), 2023, 37-70.
+2. Seemingly Unrelated Regression Estimation for VAR Models with Explosive Roots [[pdf]](https://lqyjasonlee.github.io/files/OBES_SUR.pdf) <br>
+   with Ye Chen and Jian Li. ***Oxford Bulletin of Economics and Statistics***, forthcoming.
   
 ### Work in Progress
 
