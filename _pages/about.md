@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+> Mathématique est l’art de donner le même nom à des choses différentes. 
+>
+> -- <cite>Henri Poincaré</cite>
+
 
 ## Facts
 
@@ -18,9 +22,9 @@ Certified Apple Teacher (in iPad, Mac, and Swift programming).
 
 Expert in kindergarten level mathematics. -->
 
-Noob DotA2 player (pos 1 or 2).   
+~~Noob~~ DotA2 player.   
 
-Founder of SMU SoE PhD [board game club](https://lqyjasonlee.github.io/boardgame/).  
+Co-founder of SMU SoE PhD [board game club](https://lqyjasonlee.github.io/boardgame/).  
 (email [me](mailto:qyli.2019@phdecons.smu.edu.sg) if you want to join us)  
 
 <!-- Social Vegan, I avoid meet. -->
