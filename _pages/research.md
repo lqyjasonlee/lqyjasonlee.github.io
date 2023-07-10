@@ -15,6 +15,6 @@ redirect_from:
 2. Seemingly Unrelated Regression Estimation for VAR Models with Explosive Roots [[pdf]](https://lqyjasonlee.github.io/files/OBES_SUR.pdf) <br>
    with Ye Chen and Jian Li. ***Oxford Bulletin of Economics and Statistics***, 85(1), 2023, 910-937.
   
-<!-->### Work in Progress<-->
+<!--- ### Work in Progress -->
 
   
