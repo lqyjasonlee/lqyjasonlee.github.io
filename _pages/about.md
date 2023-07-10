@@ -9,7 +9,7 @@ redirect_from:
 ---
 > Mathématique est l’art de donner le même nom à des choses différentes. 
 >
-> &mdash <cite>Henri Poincaré</cite>
+> &#151 <cite>Henri Poincaré</cite>
 
 
 ## Facts
