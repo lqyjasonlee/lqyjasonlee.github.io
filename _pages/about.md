@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
- <span style="font-family:cursive; font-style: normal;  font-size: 14">Mathématique est l’art de donner le même nom à des choses différentes. </span>
-
- <span style="font-family:cursive; font-style: normal; font-size: 14"> -- Henri Poincaré </span> 
+ > <span style="font-family:cursive; font-style: normal;  font-size: 14">Mathématique est l’art de donner le même nom à des choses différentes. </span>
+ >
+ > <span style="font-family:cursive; font-style: normal; font-size: 14"> <cite> Henri Poincaré </cite> </span> 
 
 
 ## Facts
