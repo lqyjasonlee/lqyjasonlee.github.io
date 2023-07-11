@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> <span style="font-family:cursive;">*Mathématique est l’art de donner le même nom à des choses différentes. *</span>
+> *<span style="font-family:cursive;">Mathématique est l’art de donner le même nom à des choses différentes. </span>*
 >
-> <span style="font-family:cursive;"><cite>*Henri Poincaré*</cite> </span> 
+> *<span style="font-family:cursive;"><cite>Henri Poincaré</cite> </span>* 
 
 
 ## Facts
