@@ -28,6 +28,10 @@ redirect_from:
 * M.S. in Quantitative Economics, Capital University of Economics and Business, 2019
 * B.A. in Economics, Capital University of Economics and Business, 2016
 
+### Publications and Working Papers
+
+* [See Research](https://lqyjasonlee.github.io/research/)
+
 ### Honors and Scholarships
 
 * Awards
@@ -44,14 +48,17 @@ redirect_from:
   * The 1st Class Academic Scholarship, Capital University of Economics and Business, 2017 
   * Freshmen Scholarship for Graduate Students, Capital University of Economics and Business, 2016
 
-### Publications and Working Papers
+### Conference and Seminar Presentations
+  * The MPSS (Monash-Princeton-SJTU-SMU) Conference in Econometrics, 2023
+  * SH3 Conference on Econometrics (Virtual), 2022
 
-* [See Research](https://lqyjasonlee.github.io/research/)
+### Referee Service
+  * *Journal of Econometrics*
   
 ### Teaching
 
-  1. TA for ECON611 Econometrics I (phd course), 2020-2021, SMU, Instructor: Yichong Zhang
-  2. TA for ECON698 Continuous Time Financial Econometrics (master course), 2021-2023, SMU, Instructor: Jia Li
+  * TA for ECON611 Econometrics I (phd course), 2020-2021, SMU, Instructor: Yichong Zhang
+  * TA for ECON698 Continuous Time Financial Econometrics (master course), 2021-2023, SMU, Instructor: Jia Li
   
 ### Skills
 
