@@ -25,6 +25,7 @@ redirect_from:
 ### Education
 
 * Ph.D. in Economics, Singapore Management University, 2024 (expected)
+  Committee: [Jia Li](https://sites.google.com/view/jiali/home) (Chair), [Peter Phillips](http://korora.econ.yale.edu/phillips/), [Jun Yu](http://www.mysmu.edu/faculty/yujun/), [Tim Bollerslev](http://public.econ.duke.edu/~boller/)
 * M.S. in Quantitative Economics, Capital University of Economics and Business, 2019
 * B.A. in Economics, Capital University of Economics and Business, 2016
 
