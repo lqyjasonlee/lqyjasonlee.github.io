@@ -33,3 +33,6 @@ Co-founder of SMU SoE PhD [board game club](https://lqyjasonlee.github.io/boardg
 
 **Welcome!**
 
+I am a final-year Ph.D. Candidate in Economics at Singapore Management University. My research interests are in the fields of Econometric Theory, with a specialization in Financial Econometrics.
+
+I am on the 2023/2024 job market and will be available for interviews.
