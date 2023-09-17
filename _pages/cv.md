@@ -19,7 +19,7 @@ redirect_from:
 
 ### Research Interests
 
-  * Econometrics Theory
+  * Econometric Theory
   * Financial Econometrics
 
 ### Education
