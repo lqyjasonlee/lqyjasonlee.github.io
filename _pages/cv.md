@@ -40,9 +40,7 @@ redirect_from:
   * Presidential Doctoral Fellowship, 2022
   * Best 1st Year PhD student, 2019
   * 2nd Prize in the 25th Beijing Mathematics Competition for College Students, 2014
-  * 3rd Prize in the 24th Beijing Mathematics Competition for College Students, 2013
-  * 3rd Prize in the 27th Chinese Mathematical Olympiad in Senior, 2011 
-  * 2nd Prize in the 2011 Jiangsu Mathematical Olympic Summer Camp, 2011
+  * 3rd Prize in the 27th Chinese Mathematical Olympiad in Senior, 2011
 
 * Scholarships
   * PhD Full Scholarship, Singapore Management University, 2019-2023
