@@ -56,8 +56,9 @@ redirect_from:
   
 ### Teaching
 
-  * TA for ECON611 Econometrics I (phd course), 2020-2021, SMU, Instructor: Yichong Zhang
-  * TA for ECON698 Continuous Time Financial Econometrics (master course), 2021-2023, SMU, Instructor: Jia Li
+  * TA for ECON611 Econometrics I (PhD), 2020-2021, SMU, Instructor: Yichong Zhang
+  * TA for ECON698 Continuous Time Financial Econometrics (Master), 2021-2024, SMU, Instructor: Jia Li
+  * TA for DSA201 Statistical Inference for Data Science (Undergraduate), 2023, SMU, Instructor: Daniel Preve
   
 ### Skills
 
