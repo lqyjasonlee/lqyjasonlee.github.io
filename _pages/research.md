@@ -10,7 +10,7 @@ redirect_from:
 
 ### Publications
 
-1. Optimal Nonparametric Range-Based Volatility Estimation [[pdf]](https://lqyjasonlee.github.io/files/decision.pdf) <br>
+1. Optimal Nonparametric Range-Based Volatility Estimation [<kbd>pdf</kbd>](https://lqyjasonlee.github.io/files/decision.pdf) <br>
    with Tim Bollerslev and Jia Li. ***Journal of Econometrics***, accepted.
 1. Permutation‐based Tests for Discontinuities in Event Studies [[pdf]](https://lqyjasonlee.github.io/files/quan200248.pdf) <br>
    with Federico Bugni and Jia Li. ***Quantitative Economics***, 14(1), 2023, 37-70.
