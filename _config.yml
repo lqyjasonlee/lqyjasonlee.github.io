@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "QIYUAN LI"
+title                    : "QIYUAN LI (李琦源)"
 title_separator          : "-"
 name                     : &name "Li, Qiyuan"
 description              : &description "PhD student at Singapore Manegement University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Li, Qiyuan"
   avatar           : "WechatIMG218.jpeg"
-  bio              : "PhD student in Economics at Singapore Management University"
+  bio              : "PhD candidate in Economics at SMU"
   location         : "Singapore"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
