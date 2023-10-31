@@ -18,7 +18,7 @@ redirect_from:
 ------
 ### Working Papers
 
-1. Uniform Inference of State-space Model for High-Frequency Data (**Job Market Paper**)  \[pdf coming soon\] 
+1. Uniform Inference for High-Frequency Data (**Job Market Paper**)  [[pdf]](https://lqyjasonlee.github.io/files/state.pdf) 
 
 
 1. Optimal Nonparametric Range-Based Volatility Estimation [[pdf]](https://lqyjasonlee.github.io/files/decision.pdf) <br>
