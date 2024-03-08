@@ -11,4 +11,4 @@ redirect_from:
 
 ### Volatility Estimation using Candlestick Data
 
-Emini future: [[1min]](https://drive.google.com/file/d/1QGUEB87v-7OF7_R5w5JKdBGyNOOANm81/view?usp=sharing) [[5min]](https://drive.google.com/file/d/1I1DHXb0um3lAjhq7eOst7Snaz-S_bivu/view?usp=sharing) [[10min]](https://drive.google.com/file/d/1wGVMYjvi7cBIgaQeTy-8IhLGp9LIsviD/view?usp=sharing) [(Data Description)](https://lqyjasonlee.github.io/files/datafile/DataDescription.txt)
+Emini future: [[1min]](https://drive.google.com/file/d/1i-VvrnB3XOIzwO-0kK7QUk8z4iJe6kWb/view?usp=sharing) [[5min]](https://drive.google.com/file/d/1doLPzTa1n6mfgk6jdYU-I22bLUVeIsjQ/view?usp=sharing) [[10min]](https://drive.google.com/file/d/1PMelfmB26OIzz7_4jTtMeigKUvx3w0J7/view?usp=sharing) [(Data Description)](https://lqyjasonlee.github.io/files/datafile/DataDescription.txt)
