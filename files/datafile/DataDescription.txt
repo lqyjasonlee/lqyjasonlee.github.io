@@ -1,4 +1,4 @@
-File "Emini-[x]min.csv" contains spot volatility estimation using [x]-minute candlestick data from 2016 to 2023.
+File "Emini-[x]min.csv" contains spot volatility estimation using [x]-minute candlestick data from 1997 to 2023.
 x = 1, 5, 10
 
 The file contains columns, where
