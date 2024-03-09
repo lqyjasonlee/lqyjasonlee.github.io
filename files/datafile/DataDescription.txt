@@ -1,7 +1,7 @@
 File "Emini-[x]min.csv" contains spot volatility estimation using [x]-minute candlestick data from 1997 to 2023.
 x = 1, 5, 10
 
-The file contains columns, where
+The file contains 6 columns, where
 Symbol:      ticker of target E-Mini S&P 500 Future
 Start_Time:  start time of observation block, YYYY-mm-dd HH:MM:SS
 End_Time:    end time of observation block, YYYY-mm-dd HH:MM:SS
