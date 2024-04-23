@@ -19,8 +19,7 @@ redirect_from:
 
 ### Research Interests
 
-  * Econometric Theory
-  * Financial Econometrics
+  * Econometric Theory, Financial Econometrics
 
 ### Education
 
@@ -32,6 +31,28 @@ redirect_from:
 ### Publications and Working Papers
 
 * [See Research](https://lqyjasonlee.github.io/research/)
+
+### Conference and Seminar Presentations
+  * 2024: Peking University (NSD), AMES at Zhejiang University (scheduled)
+  * 2023: The MPSS (Monash-Princeton-SJTU-SMU) Conference in Econometrics
+  * 2022: SH3 Conference on Econometrics (Virtual)
+
+### Referee Service
+  * *Journal of Econometrics*
+
+
+{% comment %}   
+### Teaching
+
+  * TA for ECON611 Econometrics I (PhD), 2020-2021, SMU, Instructor: Yichong Zhang
+  * TA for ECON698 Continuous Time Financial Econometrics (Master), 2021-2024, SMU, Instructor: Jia Li
+  * TA for DSA201 Statistical Inference for Data Science (Undergraduate), 2023, SMU, Instructor: Daniel Preve
+  
+### Skills
+
+* Python
+* LaTeX
+* MATLAB
 
 ### Honors and Scholarships
 
@@ -46,22 +67,4 @@ redirect_from:
   * China National Scholarship for Graduate Students, 2018
   * The 1st Class Academic Scholarship, Capital University of Economics and Business, 2017 
   * Freshmen Scholarship for Graduate Students, Capital University of Economics and Business, 2016
-
-### Conference and Seminar Presentations
-  * The MPSS (Monash-Princeton-SJTU-SMU) Conference in Econometrics, 2023
-  * SH3 Conference on Econometrics (Virtual), 2022
-
-### Referee Service
-  * *Journal of Econometrics*
-  
-### Teaching
-
-  * TA for ECON611 Econometrics I (PhD), 2020-2021, SMU, Instructor: Yichong Zhang
-  * TA for ECON698 Continuous Time Financial Econometrics (Master), 2021-2024, SMU, Instructor: Jia Li
-  * TA for DSA201 Statistical Inference for Data Science (Undergraduate), 2023, SMU, Instructor: Daniel Preve
-  
-### Skills
-
-* Python
-* LaTeX
-* MATLAB
+{% endcomment %}
