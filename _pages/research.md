@@ -15,7 +15,7 @@ redirect_from:
 1. Seemingly Unrelated Regression Estimation for VAR Models with Explosive Roots (with Ye Chen and Jian Li) [[pdf]](https://lqyjasonlee.github.io/files/OBES_SUR.pdf) <br>
    ***Oxford Bulletin of Economics and Statistics***, 85(1), 2023, 910-937.
 1. Optimal Nonparametric Range-Based Volatility Estimation (with Tim Bollerslev and Jia Li) [[pdf]](https://lqyjasonlee.github.io/files/decision.pdf) <br>
-   ***Journal of Econometrics***, accepted.
+   ***Journal of Econometrics***, 238(1), 2024, 105548.
 
 ------
 ### Working Papers
