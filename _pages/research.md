@@ -21,6 +21,8 @@ redirect_from:
 ### Working Papers
 
 1. Uniform Inference for High-Frequency Data (**Job Market Paper**)  [[pdf]](https://lqyjasonlee.github.io/files/state.pdf)
+1. Testing for Jumps in a Discretely Observed Price Process with Endogenous Sampling Times (with Yifan Li, Ingmar Nolte, Sandra Nolte, and Shifan Yu) [[pdf]](https://lqyjasonlee.github.io/files/pds_jump.pdf) <br>
+   ***Journal of Econometrics***, R&R.
 
 
 
@@ -33,7 +35,7 @@ redirect_from:
    This paper studies a semiparametric inference procedure for a finite-dimensional parameter in a continuous-time regression model involving high-frequency data in a large cross-section. The model concerns the relationship between a noisy dependent process and a possibly nonlinear transform of stochastic volatility over a fixed time span, with its coefficients allowed to depend on a set of firm-specific characteristics. The construction of the estimator involves two steps: the nonparametric recovery of stochastic volatility processes, followed by a parametric second stage that uses the volatility estimates. We show that the estimator admits a central limit theorem and provide a consistent estimator of the asymptotic variance based on a factor-analytic method. The finite sample performance of the inference procedure is satisfactory in a realistically calibrated Monte Carlo setting. In a novel empirical application, we study the relationship between bid-ask spread and the spot standard deviation of asset price. The slope coefficient estimate, which measures the heterogeneous level of information asymmetry, is closely related to firm characteristics such as measures of valuation uncertainty and institutional ownership.
     </details>
 
-2. Optimal Spot Volatility Estimation Based on Multiple Candlesticks (with Tim Bollerslev, Jia Li and Yifan Li)
+2. Optimal Spot Volatility Estimation Based on Multiple Candlesticks (with Tim Bollerslev, Jia Li, and Yifan Li)
 
 
   
