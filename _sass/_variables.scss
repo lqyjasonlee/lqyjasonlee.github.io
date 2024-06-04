@@ -156,19 +156,19 @@ $global-transition          : all 0.2s ease-in-out;
 
 /** Light: 300 **/
 @font-face {
-    font-family: "Lato";
+    font-family: "Lato", sans-serif;
     font-weight: 300;
     src: url("lqyjasonlee.github.io/assets/fonts/lato-light-webfont.woff2") format("woff2"), url("lqyjasonlee.github.io/assets/fonts/lato-light-webfont.woff") format("woff");
 }
 /** Regular: 400 **/
 @font-face {
-    font-family: "Lato";
+    font-family: "Lato", sans-serif;
     font-weight: 400;
     src: url("lqyjasonlee.github.io/assets/fonts/lato-regular-webfont.woff2") format("woff2"), url("lqyjasonlee.github.io/assets/fonts/lato-regular-webfont.woff") format("woff");
 }
 /** Bold: 700 **/
 @font-face {
-    font-family: "Lato";
+    font-family: "Lato", sans-serif;
     font-weight: 700;
     src: url("lqyjasonlee.github.io/assets/fonts/lato-bold-webfont.woff2") format("woff2"), url("lqyjasonlee.github.io/assets/fonts/lato-bold-webfont.woff") format("woff");
 }
