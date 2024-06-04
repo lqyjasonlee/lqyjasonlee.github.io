@@ -12,6 +12,27 @@ $doc-font-size              : 16;
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
+
+/* Lato Fonts */
+/** Light: 300 **/
+@font-face {
+    font-family: "Lato";
+    font-weight: 300;
+    src: url("lqyjasonlee.github.io/assets/fonts/lato-light-webfont.woff2") format("woff2"), url("lqyjasonlee.github.io/assets/fonts/lato-light-webfont.woff") format("woff");
+}
+/** Regular: 400 **/
+@font-face {
+    font-family: "Lato";
+    font-weight: 400;
+    src: url("lqyjasonlee.github.io/assets/fonts/lato-regular-webfont.woff2") format("woff2"), url("lqyjasonlee.github.io/assets/fonts/lato-regular-webfont.woff") format("woff");
+}
+/** Bold: 700 **/
+@font-face {
+    font-family: "Lato";
+    font-weight: 700;
+    src: url("lqyjasonlee.github.io/assets/fonts/lato-bold-webfont.woff2") format("woff2"), url("lqyjasonlee.github.io/assets/fonts/lato-bold-webfont.woff") format("woff");
+}
+
 /* system typefaces */
 $serif                      : Constania, Palatino, Book Antiqua, Palatino Linotype, Palatino LT STD, Georgia, Times, serif;
 $sans-serif                 : "Lato", ".SFNSText-Regular", -apple-system, "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -164,24 +185,7 @@ $global-transition          : all 0.2s ease-in-out;
     --fontWeight_regular: 400;
     --fontWeight_light: 300;
 }
-/** Light: 300 **/
-@font-face {
-    font-family: "Lato";
-    font-weight: 300;
-    src: url("lqyjasonlee.github.io/assets/fonts/lato-light-webfont.woff2") format("woff2"), url("lqyjasonlee.github.io/assets/fonts/lato-light-webfont.woff") format("woff");
-}
-/** Regular: 400 **/
-@font-face {
-    font-family: "Lato";
-    font-weight: 400;
-    src: url("lqyjasonlee.github.io/assets/fonts/lato-regular-webfont.woff2") format("woff2"), url("lqyjasonlee.github.io/assets/fonts/lato-regular-webfont.woff") format("woff");
-}
-/** Bold: 700 **/
-@font-face {
-    font-family: "Lato";
-    font-weight: 700;
-    src: url("lqyjasonlee.github.io/assets/fonts/lato-bold-webfont.woff2") format("woff2"), url("lqyjasonlee.github.io/assets/fonts/lato-bold-webfont.woff") format("woff");
-}
+
 /** 
     For demo purposes, font declarations are only added to specific elements (excluding body).
 **/
