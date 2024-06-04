@@ -157,7 +157,7 @@ $global-transition          : all 0.2s ease-in-out;
     --fallback_serif: serif;
     --fallback_sans: sans-serif;
     --font_main: "Lato";
-    --family_main: var(--font_main), var(--fallback_sans);
+    --family_main: var(--font_main);
 
     --fontWeight_bold: 700;
     --fontWeight_regular: 400;
