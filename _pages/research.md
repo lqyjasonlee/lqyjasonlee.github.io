@@ -10,7 +10,8 @@ redirect_from:
 
 <style>
 journal { font-weight: 400;
-font-style: italic; }
+font-style: italic; 
+white-space: nowrap;}
 </style>
 
 
