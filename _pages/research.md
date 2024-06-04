@@ -19,18 +19,18 @@ white-space: nowrap;}
 ### Publications
 
 1. Permutation‐based Tests for Discontinuities in Event Studies (with Federico Bugni and Jia Li) [[pdf]](https://lqyjasonlee.github.io/files/quan200248.pdf) <br>
-   <journal>Quantitative Economics</journal>, 14(1), 2023, 37-70.
+   <nobr><journal>Quantitative Economics</journal>,</nobr> 14(1), 2023, 37-70.
 1. Seemingly Unrelated Regression Estimation for VAR Models with Explosive Roots (with Ye Chen and Jian Li) [[pdf]](https://lqyjasonlee.github.io/files/OBES_SUR.pdf) <br>
-   <journal>Oxford Bulletin of Economics and Statistics</journal>, 85(1), 2023, 910-937.
+   <nobr><journal>Oxford Bulletin of Economics and Statistics</journal>,</nobr> 85(1), 2023, 910-937.
 1. Optimal Nonparametric Range-Based Volatility Estimation (with Tim Bollerslev and Jia Li) [[pdf]](https://lqyjasonlee.github.io/files/decision.pdf) <br>
-   <journal>Journal of Econometrics</journal>, 238(1), 2024, 105548.
+   <nobr><journal>Journal of Econometrics</journal>,</nobr> 238(1), 2024, 105548.
 
 ------
 ### Working Papers
 
 1. Uniform Inference for High-Frequency Data (<journal>Job Market Paper</journal>)  [[pdf]](https://lqyjasonlee.github.io/files/state.pdf)
 1. Testing for Jumps in a Discretely Observed Price Process with Endogenous Sampling Times (with Yifan Li, Ingmar Nolte, Sandra Nolte, and Shifan Yu) [[pdf]](https://lqyjasonlee.github.io/files/pds_jump.pdf) <br>
-   <journal>Journal of Econometrics</journal>, R&R.
+   <nobr><journal>Journal of Econometrics</journal>,</nobr> R&R.
 
 
 
