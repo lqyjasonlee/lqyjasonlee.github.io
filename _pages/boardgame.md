@@ -21,8 +21,7 @@ Current members: Dennis Lim, Naiyuan Hu, Qiyuan Li, Xincheng Huang, Xue Zhang, F
 
 We offer different types of games, you are also welcome to bring your own game and introduce to us. 
 
-* Traditional board games: **Betrayal at House on the Hill**[^1], **Citadal**[^2], **The Message**[^3], **Ticket to Ride: Amsterdam**[^4], **Splendor**[^5], **
-Deception**[^6]
+* Traditional board games: **Betrayal at House on the Hill**[^1], **Citadal**[^2], **The Message**[^3], **Ticket to Ride: Amsterdam**[^4], **Splendor**[^5], **Deception**[^6]
 * Babbling games: **One Night Werewolf**[^7], **Avalon**[^8]
 * Party games: **Exploding Cats**[^9], **Mahjong**, **UNO**, **Poker**
 
