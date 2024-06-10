@@ -32,6 +32,26 @@ $indent-var                 : 1.3em;
     font-weight: 700;
     src: url("https://lqyjasonlee.github.io/assets/fonts/lato-bold-webfont.woff2") format("woff2"), url("https://lqyjasonlee.github.io/assets/fonts/lato-bold-webfont.woff") format("woff");
 }
+@font-face {
+    font-family: "Lato";
+    font-weight: 300;
+    font-style: italic;
+    src: url("https://lqyjasonlee.github.io/assets/fonts/Lato-LightItalic.woff2") format("woff2"), url("https://lqyjasonlee.github.io/assets/fonts/Lato-LightItalic.woff") format("woff");
+}
+/** Regular: 400 **/
+@font-face {
+    font-family: "Lato";
+    font-weight: 400;
+    font-style: italic;
+    src: url("https://lqyjasonlee.github.io/assets/fonts/Lato-Italic.woff2") format("woff2"), url("https://lqyjasonlee.github.io/assets/fonts/Lato-Italic.woff") format("woff");
+}
+/** Bold: 700 **/
+@font-face {
+    font-family: "Lato";
+    font-weight: 700;
+    font-style: bold;
+    src: url("https://lqyjasonlee.github.io/assets/fonts/Lato-BoldItalic.woff2") format("woff2"), url("https://lqyjasonlee.github.io/assets/fonts/Lato-BoldItalic.woff") format("woff");
+}
 
 /* system typefaces */
 $serif                      : Constania, Palatino, Book Antiqua, Palatino Linotype, Palatino LT STD, Georgia, Times, serif;
