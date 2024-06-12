@@ -39,3 +39,10 @@ We offer different types of games, you are also welcome to bring your own game a
 [^7]: <https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf>  
 [^8]: <https://boardgamegeek.com/boardgame/128882/resistance-avalon>  
 [^9]: <https://boardgamegeek.com/boardgame/172242/exploding-kittens-nsfw-deck>  
+
+
+
+-----------
+For testing purposes:
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=kkNe3r633UJXgttdL9imAX6xpMccjkoQKONGD-T7etA"></script>
+
