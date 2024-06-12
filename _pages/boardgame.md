@@ -43,7 +43,7 @@ We offer different types of games, you are also welcome to bring your own game a
 
 
 -----------
-Just for testing purposes: style="pointer-events:none"
+Just for testing purposes: 
 
 <div class="wrapper" onclick="return false;">
 <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=270&t=tt&d=kkNe3r633UJXgttdL9imAX6xpMccjkoQKONGD-T7etA"></script>
