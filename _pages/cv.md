@@ -11,14 +11,14 @@ redirect_from:
 
 ### Contact Information
 
-* 918, 9/F, K. K. Leung Building
-  HKU Business School
-  The University of Hong Kong
+* 918, 9/F, K. K. Leung Building  
+  HKU Business School  
+  The University of Hong Kong  
 * [qiyuanli@hku.hk](mailto:qiyuanli@hku.hk)
 
 ### Positions
 
-  * Faculty of Business and Economics, the University of Hong Kong
+  * Faculty of Business and Economics, the University of Hong Kong  
     Assistant Professor in Economics
 
 ### Education
@@ -42,7 +42,7 @@ redirect_from:
   * 2022: SH3 Conference on Econometrics (Virtual)
 
 ### Referee Service
-  * *Journal of Computational and Graphical Statistics*， *Journal of Econometrics*
+  * *Journal of Computational and Graphical Statistics*, *Journal of Econometrics*
 
 
 {% comment %}   
