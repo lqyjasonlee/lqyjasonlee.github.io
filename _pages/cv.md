@@ -11,15 +11,15 @@ redirect_from:
 
 ### Contact Information
 
-* Singapore Management University   
-  School of Economics   
-  90 Stamford Road   
-  Singapore 178903
-* [qyli.2019@phdecons.smu.edu.sg](mailto:qyli.2019@phdecons.smu.edu.sg)  
+* 918, 9/F, K. K. Leung Building
+  HKU Business School
+  The University of Hong Kong
+* [qiyuanli@hku.hk](mailto:qiyuanli@hku.hk)
 
-### Research Interests
+### Positions
 
-  * Econometric Theory, Financial Econometrics
+  * Faculty of Business and Economics, the University of Hong Kong
+    Assistant Professor in Economics
 
 ### Education
 
@@ -27,6 +27,10 @@ redirect_from:
   Committee: [Jia Li](https://sites.google.com/view/jiali/home) (Chair), [Peter C. B. Phillips](http://korora.econ.yale.edu/phillips/), [Jun Yu](https://fba.um.edu.mo/faculty/junyu/), [Tim Bollerslev](http://public.econ.duke.edu/~boller/)  
 * M.S. in Quantitative Economics, Capital University of Economics and Business, 2019
 * B.A. in Economics, Capital University of Economics and Business, 2016
+
+### Research Interests
+
+  * Econometric Theory, Financial Econometrics
 
 ### Publications and Working Papers
 
@@ -38,7 +42,7 @@ redirect_from:
   * 2022: SH3 Conference on Econometrics (Virtual)
 
 ### Referee Service
-  * *Journal of Econometrics*
+  * *Journal of Computational and Graphical Statistics*， *Journal of Econometrics*
 
 
 {% comment %}   
