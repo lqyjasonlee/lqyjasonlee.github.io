@@ -29,5 +29,5 @@ Co-founder of SMU SoE PhD [board game club](https://lqyjasonlee.github.io/boardg
 
 **Welcome!**
 
-I am an assistant professor in Economics at HKU Business School. Proior to this, I obtained a Ph.D. in Economics from Singapore Management University in 2024. My research interests are in econometric theory, with a specialization in financial econometrics.
+I am an assistant professor of Economics at HKU Business School. Proior to this, I obtained a Ph.D. in Economics from Singapore Management University in 2024. My research interests are in econometric theory, with a specialization in financial econometrics.
 
