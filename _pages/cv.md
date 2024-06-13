@@ -18,7 +18,7 @@ redirect_from:
 
 ### Positions
 
-  * Assistant Professor in Economics, HKU Business School, 2024-present
+  * Assistant Professor of Economics, HKU Business School, 2024-present
 
 ### Education
 
