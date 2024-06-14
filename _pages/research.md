@@ -12,9 +12,9 @@ redirect_from:
 ------
 ### Publications
 
-1. Permutation‐based Tests for Discontinuities in Event Studies (with Federico Bugni and Jia Li) [[pdf]](https://lqyjasonlee.github.io/files/quan200248.pdf) <br>
+1. Permutation‐based Tests for Discontinuities in Event Studies (with Federico Bugni and Jia Li) [[pdf]](https://lqyjasonlee.github.io/files/permutation.pdf) <br>
    <span style="font-weight: 400; font-style: italic;">Quantitative Economics</span>, 14(1), 2023, 37-70.
-1. Seemingly Unrelated Regression Estimation for VAR Models with Explosive Roots (with Ye Chen and Jian Li) [[pdf]](https://lqyjasonlee.github.io/files/OBES_SUR.pdf) <br>
+1. Seemingly Unrelated Regression Estimation for VAR Models with Explosive Roots (with Ye Chen and Jian Li) [[pdf]](https://lqyjasonlee.github.io/files/explosive_sur.pdf) <br>
    <span style="font-weight: 400; font-style: italic;">Oxford Bulletin of Economics and Statistics</span>, 85(1), 2023, 910-937.
 1. Optimal Nonparametric Range-Based Volatility Estimation (with Tim Bollerslev and Jia Li) [[pdf]](https://lqyjasonlee.github.io/files/decision.pdf) <br>
    <span style="font-weight: 400; font-style: italic;">Journal of Econometrics</span>, 238(1), 2024, 105548.
