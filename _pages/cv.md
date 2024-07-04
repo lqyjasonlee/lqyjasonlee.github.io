@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[[pdf]](https://lqyjasonlee.github.io/files/vita_qyli.pdf)
+
+
 ### Contact Information
 
 * 918, 9/F, K. K. Leung Building  
