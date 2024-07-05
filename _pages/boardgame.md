@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+### This page will no longer be updated.
+
 ### About Us
 
 We are a group of SMU phd students, most of us are from SoE. We will ~~constantly~~ organize off-line 
