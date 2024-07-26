@@ -43,12 +43,3 @@ We offer different types of games, you are also welcome to bring your own game a
 [^9]: <https://boardgamegeek.com/boardgame/172242/exploding-kittens-nsfw-deck>  
 
 
-
-{% ----------- %}
-{% Just for testing purposes: %}
-
-{% <div class="wrapper" onclick="return false;" oncontextmenu="return false;"> %}
-{% <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=270&t=tt&d=kkNe3r633UJXgttdL9imAX6xpMccjkoQKONGD-T7etA"></script> %}
-{% </div> %}
-
-
