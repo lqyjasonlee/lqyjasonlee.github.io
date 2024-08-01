@@ -35,6 +35,6 @@ I am an assistant professor of economics at HKU Business School. Prior to this, 
 -----------
 
 <div class="wrapper" onclick="return false;" oncontextmenu="return false;">
-<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=3a4066&w=a&t=tt&d=kkNe3r633UJXgttdL9imAX6xpMccjkoQKONGD-T7etA&co=ffffff&cmo=f7b387&cmn=fe7b07&ct=000000"></script>
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=3a4066&w=270&t=tt&d=kkNe3r633UJXgttdL9imAX6xpMccjkoQKONGD-T7etA&co=ffffff&cmo=f7b387&cmn=fe7b07&ct=000000"></script>
 </div>
 
