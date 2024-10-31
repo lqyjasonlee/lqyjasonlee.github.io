@@ -39,7 +39,7 @@ redirect_from:
 * [See Research](https://lqyjasonlee.github.io/research/)
 
 ### Conference and Seminar Presentations
-  * 2024: Peking University (NSD), AMES at Zhejiang University, Chinese Univerisity of Hong Kong (SZ, scheduled), Chinese Univerisity of Hong Kong (scheduled)
+  * 2024: Peking University (NSD), AMES at Zhejiang University, Chinese Univerisity of Hong Kong (SZ), Chinese Univerisity of Hong Kong
   * 2023: The MPSS (Monash-Princeton-SJTU-SMU) Conference in Econometrics
   * 2022: SH3 Conference on Econometrics (Virtual)
 
