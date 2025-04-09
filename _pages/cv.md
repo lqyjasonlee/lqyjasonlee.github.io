@@ -39,7 +39,7 @@ redirect_from:
 * [See Research](https://lqyjasonlee.github.io/research/)
 
 ### Conference and Seminar Presentations
-  * 2025: SETA at University of Macau (scheduled), Annual SoFiE Conference at ESSEC Business School (scheduled), World Congressof the Econometric Society at Seoul (scheduled)
+  * 2025: SETA at University of Macau (scheduled), Annual SoFiE Conference at ESSEC Business School (scheduled), World Congress of the Econometric Society at Seoul (scheduled)
   * 2024: Peking University (NSD), Asia Meeting of the Econometric Society at Hangzhou, Chinese Univerisity of Hong Kong (SZ), Chinese Univerisity of Hong Kong
   * 2023: The MPSS (Monash-Princeton-SJTU-SMU) Conference in Econometrics
   * 2022: SH3 Conference on Econometrics (Virtual)
