@@ -25,7 +25,7 @@ redirect_from:
 1. Uniform Inference for High-Frequency Data  [[pdf (JMP version)]](https://lqyjasonlee.github.io/files/state.pdf)
 1. Testing for Jumps in a Discretely Observed Price Process with Endogenous Sampling Times (with Yifan Li, Ingmar Nolte, Sandra Nolte, and Shifan Yu) [[pdf]](https://lqyjasonlee.github.io/files/pds_jump.pdf) <br>
    <span style="font-weight: 400; font-style: italic;">Journal of Econometrics</span>, R&R.
-1. Optimal Candlestick-Based Spot Volatility Estimation: New Tricks and Feasible Inference Procedures (with Tim Bollerslev, Jia Li, and Yifan Li) [[pdf]](https://lqyjasonlee.github.io/files/kcandle.pdf)
+1. Optimal Candlestick-Based Spot Volatility Estimation: New Tricks and Feasible Inference Procedures (with Tim Bollerslev, Jia Li, and Yifan Li) [[pdf]](https://lqyjasonlee.github.io/files/kcandle.pdf) [[code]](https://lqyjasonlee.github.io/files/candle_spotvol.zip)
 
 
 
