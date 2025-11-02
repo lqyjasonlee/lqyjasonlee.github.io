@@ -45,7 +45,7 @@ redirect_from:
   * 2022: SH3 Conference on Econometrics (Virtual)
 
 ### Referee Service
-  * *Econometric Theory*, *Journal of Computational and Graphical Statistics*, *Journal of Econometrics*
+  * *Econometric Theory*, *Journal of Applied Econometrics*, *Journal of Computational and Graphical Statistics*, *Journal of Econometrics*
 
 
 {% comment %}   
