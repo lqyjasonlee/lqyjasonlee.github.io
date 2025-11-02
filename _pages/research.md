@@ -18,13 +18,13 @@ redirect_from:
    <span style="font-weight: 400; font-style: italic;">Oxford Bulletin of Economics and Statistics</span>, 85(1), 2023, 910-937.
 1. Optimal Nonparametric Range-Based Volatility Estimation (with Tim Bollerslev and Jia Li) [[pdf]](https://lqyjasonlee.github.io/files/decision.pdf) <br>
    <span style="font-weight: 400; font-style: italic;">Journal of Econometrics</span>, 238(1), 2024, 105548.
+1. Testing for Jumps in a Discretely Observed Price Process with Endogenous Sampling Times (with Yifan Li, Ingmar Nolte, Sandra Nolte, and Shifan Yu) [[pdf]](https://lqyjasonlee.github.io/files/pds_jump.pdf) <br>
+   <span style="font-weight: 400; font-style: italic;">Journal of Econometrics</span>, forthcoming.
 
 ------
 ### Working Papers
 
 1. Uniform Inference for High-Frequency Data  [[pdf (JMP version)]](https://lqyjasonlee.github.io/files/state.pdf)
-1. Testing for Jumps in a Discretely Observed Price Process with Endogenous Sampling Times (with Yifan Li, Ingmar Nolte, Sandra Nolte, and Shifan Yu) [[pdf]](https://lqyjasonlee.github.io/files/pds_jump.pdf) <br>
-   <span style="font-weight: 400; font-style: italic;">Journal of Econometrics</span>, R&R.
 1. Optimal Candlestick-Based Spot Volatility Estimation: New Tricks and Feasible Inference Procedures (with Tim Bollerslev, Jia Li, and Yifan Li) [[pdf]](https://lqyjasonlee.github.io/files/kcandle.pdf) [[code]](https://lqyjasonlee.github.io/files/candle_spotvol.zip)
 
 
@@ -33,10 +33,6 @@ redirect_from:
 ### Work in Progress
 
 1. Continuous-Time Volatility Regression in Large Panels (with Tim Bollerslev, Jia Li, and Congshan Zhang)
-   <details>
-   <summary>Abstract</summary>
-   This paper studies a semiparametric inference procedure for a finite-dimensional parameter in a continuous-time regression model involving high-frequency data in a large cross-section. The model concerns the relationship between a noisy dependent process and a possibly nonlinear transform of stochastic volatility over a fixed time span, with its coefficients allowed to depend on a set of firm-specific characteristics. The construction of the estimator involves two steps: the nonparametric recovery of stochastic volatility processes, followed by a parametric second stage that uses the volatility estimates. We show that the estimator admits a central limit theorem and provide a consistent estimator of the asymptotic variance based on a factor-analytic method. The finite sample performance of the inference procedure is satisfactory in a realistically calibrated Monte Carlo setting. In a novel empirical application, we study the relationship between bid-ask spread and the spot standard deviation of asset price. The slope coefficient estimate, which measures the heterogeneous level of information asymmetry, is closely related to firm characteristics such as measures of valuation uncertainty and institutional ownership.
-    </details>
 
 
 
