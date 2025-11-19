@@ -27,13 +27,6 @@ redirect_from:
 ### Working Papers
 
 1. Uniform Inference for High-Frequency Data  [[pdf (JMP version)]](https://lqyjasonlee.github.io/files/state.pdf)
-
-
-
-
-------
-### Work in Progress
-
 1. Continuous-Time Volatility Regression in Large Panels (with Tim Bollerslev, Jia Li, and Congshan Zhang)
 
 
