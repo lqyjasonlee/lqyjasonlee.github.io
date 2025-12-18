@@ -430,3 +430,18 @@
     }
   }
 }
+
+
+// dark mode
+body.dark-mode .masthead {
+  background-color: #2d2d2d;
+  
+  .site-title a,
+  .nav__links a {
+    color: $light-gray;
+    
+    &:hover {
+      color: #fff;
+    }
+  }
+}
