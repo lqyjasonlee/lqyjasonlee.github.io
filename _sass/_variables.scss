@@ -137,6 +137,12 @@ $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
+/* dard mode */
+$dark-background-color: #1e1e1e;
+$dark-text-color: #d4d4d4;
+$dark-border-color: #383838;
+$dark-code-background-color: #2d2d2d;
+
 
 /*
    Breakpoints
