@@ -313,3 +313,31 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+
+
+// dark mode
+body.dark-mode {
+  background-color: $dark-background-color;
+  color: $dark-text-color;
+  
+  // link color
+  a {
+    color: #8ab4f8;
+    
+    &:hover {
+      color: #b3d1ff;
+    }
+  }
+  
+  // code block
+  pre, code {
+    background-color: $dark-code-background-color;
+    color: #d4d4d4;
+  }
+  
+  // border color
+  .border {
+    border-color: $dark-border-color;
+  }
+}
