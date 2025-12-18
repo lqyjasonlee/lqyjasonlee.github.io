@@ -341,3 +341,12 @@ body.dark-mode {
     border-color: $dark-border-color;
   }
 }
+
+
+body.dark-mode img {
+  filter: brightness(0.9) contrast(1.1);
+}
+
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
