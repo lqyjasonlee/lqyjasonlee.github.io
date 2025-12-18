@@ -96,3 +96,42 @@ $(document).ready(function(){
   });
 
 });
+
+
+
+// swith theme
+(function() {
+  // check local preference
+  const savedTheme = localStorage.getItem('academicpages-theme');
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  
+  // initial theme
+  if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
+    document.body.classList.add('dark-mode');
+  }
+  
+  // change button
+  const themeToggle = document.createElement('button');
+  themeToggle.id = 'theme-toggle';
+  themeToggle.innerHTML = '🌙';
+  themeToggle.style.position = 'fixed';
+  themeToggle.style.bottom = '20px';
+  themeToggle.style.right = '20px';
+  themeToggle.style.padding = '10px';
+  themeToggle.style.borderRadius = '50%';
+  themeToggle.style.backgroundColor = '#7a8288';
+  themeToggle.style.color = 'white';
+  themeToggle.style.border = 'none';
+  themeToggle.style.cursor = 'pointer';
+  
+  // click event
+  themeToggle.addEventListener('click', () => {
+    document.body.classList.toggle('dark-mode');
+    const isDark = document.body.classList.contains('dark-mode');
+    localStorage.setItem('academicpages-theme', isDark ? 'dark' : 'light');
+    themeToggle.innerHTML = isDark ? '☀️' : '🌙';
+  });
+  
+  // append to page
+  document.body.appendChild(themeToggle);
+})();
