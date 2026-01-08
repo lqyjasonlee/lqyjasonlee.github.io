@@ -21,7 +21,7 @@ redirect_from:
 1. Testing for Jumps in a Discretely Observed Price Process with Endogenous Sampling Times (with Yifan Li, Ingmar Nolte, Sandra Nolte, and Shifan Yu) [[pdf]](https://lqyjasonlee.github.io/files/pds_jump.pdf) [[supp]](https://lqyjasonlee.github.io/files/pds_jumpSUPP.pdf)<br>
    <span style="font-weight: 400; font-style: italic;">Journal of Econometrics</span>, 2025, 106132.
 1. Optimal Candlestick-Based Spot Volatility Estimation: New Tricks and Feasible Inference Procedures (with Tim Bollerslev, Jia Li, and Yifan Li) [[pdf]](https://lqyjasonlee.github.io/files/kcandle.pdf) [[supp]](https://lqyjasonlee.github.io/files/kcandleSUPP.pdf) [[code]](https://lqyjasonlee.github.io/files/candle_spotvol.zip) <br>
-   <span style="font-weight: 400; font-style: italic;">Journal of Financial Econometrics</span>, forthcoming.
+   <span style="font-weight: 400; font-style: italic;">Journal of Financial Econometrics</span>, 24(1), 2026, 1-22.
 
 ------
 ### Working Papers
