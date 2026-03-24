@@ -39,13 +39,14 @@ redirect_from:
 * [See Research](https://lqyjasonlee.github.io/research/)
 
 ### Conference and Seminar Presentations
+  * 2026: University of Oxford (OMI, scheduled)
   * 2025: SETA at University of Macau, Annual SoFiE Conference at ESSEC Business School, World Congress of the Econometric Society at Seoul
   * 2024: Peking University (NSD), Asia Meeting of the Econometric Society at Hangzhou, Chinese Univerisity of Hong Kong (SZ), Chinese Univerisity of Hong Kong
   * 2023: The MPSS (Monash-Princeton-SJTU-SMU) Conference in Econometrics
   * 2022: SH3 Conference on Econometrics (Virtual)
 
 ### Referee Service
-  * *Econometric Theory*, *Journal of Applied Econometrics*, *Journal of Computational and Graphical Statistics*, *Journal of Econometrics*
+  * *Econometric Theory*, *Journal of Applied Econometrics*, *Journal of Computational and Graphical Statistics*, *Journal of Econometrics*, *Journal of Financial Econometrics*
 
 
 {% comment %}   
