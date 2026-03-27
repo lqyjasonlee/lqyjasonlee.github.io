@@ -1,4 +1,4 @@
-# Academic homepage starter
+# Academic homepage
 
 This is a plain HTML/CSS personal academic website designed for GitHub Pages.
 
@@ -14,9 +14,9 @@ This is a plain HTML/CSS personal academic website designed for GitHub Pages.
 
 ## Edit the content
 
-Open each HTML file and replace the placeholder text with your own details.
+Open each HTML file and make your own changes.
 
-## Research page
+## Research page (updated)
 
 Each paper has:
 
@@ -57,9 +57,14 @@ Then link to them using relative paths such as:
 
 ## Version note
 
-This package includes the v9 research-page interaction: each paper entry is a light-gray clickable card, the abstract toggles by clicking the entry, and BibTeX/PDF controls remain independent.
+
+### V2 
+
+1. Local Lato font setup
+
+This version loads Lato from `assets/fonts/` using `@font-face` instead of Google Fonts, to avoid display issues on visitors from mainland China. 
 
 
-## Local Lato font setup
+2. Research-page rebuild
 
-This version loads Lato from `assets/fonts/` using `@font-face` instead of Google Fonts. If you deploy in your existing repo, your current `assets/fonts/` folder should already satisfy these paths.
+This package includes the research-page interaction: each paper entry is a light-gray clickable card, the abstract toggles by clicking the entry, and BibTeX/PDF controls remain independent.

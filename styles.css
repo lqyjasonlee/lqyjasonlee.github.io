@@ -173,6 +173,11 @@ img { max-width: 100%; display: block; }
   z-index: 22;
 }
 
+.site-title-sub {
+  font-weight: 400;
+  font-size: 0.95em;
+}
+
 .header-controls {
   display: flex;
   align-items: center;
