@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Research | Qiyuan Li</title>  <link rel="stylesheet" href="styles.css" />
+  <script>
+    (function () {
+      try {
+        var storedTheme = localStorage.getItem('site-theme');
+        var theme = storedTheme || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', theme);
+      } catch (e) {}
+    })();
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrapper site-header-inner">
+      <a class="site-title" href="index.html">Qiyuan Li (李琦源)</a>
+
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <nav class="nav" id="site-nav" aria-label="Main navigation">
+        <a href="index.html">Home</a>
+        <a href="cv.html">CV</a>
+        <a class="active" href="research.html">Research</a>
+        <a href="teaching.html">Teaching</a>
+        <a href="misc.html">Misc</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="wrapper narrow">
+      <section class="card section">
+        <h1 class="page-title">Research</h1>
+        <p class="muted research-intro">
+          Click on a paper to expand or hide the abstract. On mobile, tap to expand or hide.
+        </p>
+
+        <div class="research-group">
+          <h2>Publications</h2>
+          <div class="pub-list">
+            <article class="pub-item">
+              <div class="pub-meta">
+                <div class="pub-number">[1]</div>
+                <div class="pub-main">
+                  <button class="paper-toggle" type="button" data-target="abstract-1" aria-expanded="false">
+                    <span class="pub-title">Permutation‐based Tests for Discontinuities in Event Studies</span>
+                  </button>
+                  <div class="pub-coauthors">with Federico Bugni and Jia Li</div>
+                  <div class="pub-journal"><strong><em>Quantitative Economics</em></strong>, 14(1), 2023, 37-70.</div>
+                  <div class="pub-actions">
+                    <a class="mini-btn" href="files/permutation.pdf">PDF</a>
+                    <button class="mini-btn bibtex-toggle" type="button" data-target="bibtex-1" aria-expanded="false">BibTeX</button>
+                  </div>
+                  <div class="abstract-wrap" id="abstract-1" hidden>
+                    <p>
+                      We propose using a permutation test to detect discontinuities in an underlying economic model at a known cutoff point. Relative to the existing literature, we show that this test is well suited for event studies based on time-series data. The test statistic measures the distance between the empirical distribution functions of observed data in two local subsamples on the two sides of the cutoff. Critical values are computed via a standard permutation algorithm. Under a high-level condition that the observed data can be coupled by a collection of conditionally independent variables, we establish the asymptotic validity of the permutation test, allowing the sizes of the local subsamples to be either be fixed or grow to infinity. In the latter case, we also establish that the permutation test is consistent. We demonstrate that our high-level condition can be verified in a broad range of problems in the infill asymptotic time-series setting, which justifies using the permutation test to detect jumps in economic variables such as volatility, trading activity, and liquidity. These potential applications are illustrated in an empirical case study for selected FOMC announcements during the ongoing COVID-19 pandemic.
+                    </p>
+                  </div>
+                  <div class="bibtex-wrap" id="bibtex-1" hidden>
+                    <div class="bibtex-toolbar">
+                      <button class="mini-btn copy-bibtex" type="button" data-target="bibtex-1">Copy</button>
+                      <span class="copy-status" aria-live="polite"></span>
+                    </div>
+                    <pre>@article{bugni2023permutation,
+  title={Permutation-based tests for discontinuities in event studies},
+  author={Bugni, Federico A and Li, Jia and Li, Qiyuan},
+  journal={Quantitative Economics},
+  volume={14},
+  number={1},
+  pages={37--70},
+  year={2023},
+  publisher={Wiley Online Library}
+}</pre>
+                  </div>
+                </div>
+              </div>
+            </article>
+
+            <article class="pub-item">
+              <div class="pub-meta">
+                <div class="pub-number">[2]</div>
+                <div class="pub-main">
+                  <button class="paper-toggle" type="button" data-target="abstract-2" aria-expanded="false">
+                    <span class="pub-title">Seemingly Unrelated Regression Estimation for VAR Models with Explosive Roots</span>
+                  </button>
+                  <div class="pub-coauthors">with Ye Chen and Jian Li</div>
+                  <div class="pub-journal"><strong><em>Oxford Bulletin of Economics and Statistics</em></strong>, 85(1), 2023, 910-937.</div>
+                  <div class="pub-actions">
+                    <a class="mini-btn" href="files/explosive_sur.pdf">PDF</a>
+                    <a class="mini-btn" href="files/explosive_surSUPP.pdf">SUPP</a>
+                    <button class="mini-btn bibtex-toggle" type="button" data-target="bibtex-2" aria-expanded="false">BibTeX</button>
+                  </div>
+                  <div class="abstract-wrap" id="abstract-2" hidden>
+                    <p>
+                      For VAR models with common explosive root, the OLS estimator of the autoregressive coefficient matrix is inconsistent (refer to Nielsen, 2009 and Phillips and Magdalinos, 2013). Although Phillips & Magdalinos (2013) proposed using the future observations as the instrumental variable for removing the endogeneity from VAR models, type I error occurs when testing for a common explosive root from the distinct explosive roots before the implementation of IV estimation. Such error creates bias and variance in the estimate and further causes incorrect inference in the structural analysis such as forecast error decomposition (FEVD). Hence, we propose using of seemingly unrelated regression (SUR) estimation for VAR models with explosive roots. Our SUR estimator is consistent in the case of both distinct explosive roots and common explosive root. We also consider models with drift in the system for generalization. Simulations show that the SUR estimate performs better than OLS and IV estimate in the case of both a common explosive root and distinct explosive roots case. In structural FEVD analysis, simulations show that SUR yields a different result from OLS and IV. We demonstrate the use of SUR in FEVD for agricultural commodity markets between 3 July 2010, and 29 January 2011.
+                    </p>
+                  </div>
+                  <div class="bibtex-wrap" id="bibtex-2" hidden>
+                    <div class="bibtex-toolbar">
+                      <button class="mini-btn copy-bibtex" type="button" data-target="bibtex-2">Copy</button>
+                      <span class="copy-status" aria-live="polite"></span>
+                    </div>
+                    <pre>@article{chen2023seemingly,
+  title={Seemingly Unrelated Regression Estimation for VAR models with explosive roots},
+  author={Chen, Ye and Li, Jian and Li, Qiyuan},
+  journal={Oxford Bulletin of Economics and Statistics},
+  volume={85},
+  number={4},
+  pages={910--937},
+  year={2023},
+  publisher={Wiley Online Library}
+}</pre>
+                  </div>
+                </div>
+              </div>
+            </article>
+
+            <article class="pub-item">
+              <div class="pub-meta">
+                <div class="pub-number">[3]</div>
+                <div class="pub-main">
+                  <button class="paper-toggle" type="button" data-target="abstract-3" aria-expanded="false">
+                    <span class="pub-title">Optimal Nonparametric Range-Based Volatility Estimation</span>
+                  </button>
+                  <div class="pub-coauthors">with Tim Bollerslev and Jia Li</div>
+                  <div class="pub-journal"><strong><em>Journal of Econometrics</em></strong>, 238(1), 2024, 105548.</div>
+                  <div class="pub-actions">
+                    <a class="mini-btn" href="files/decision.pdf">PDF</a>
+                    <a class="mini-btn" href="files/decisionSUPP.pdf">SUPP</a>
+                    <button class="mini-btn bibtex-toggle" type="button" data-target="bibtex-3" aria-expanded="false">BibTeX</button>
+                  </div>
+                  <div class="abstract-wrap" id="abstract-3" hidden>
+                    <p>
+                      We present a general framework for optimal nonparametric spot volatility estimation based on intraday range data, comprised of the first, highest, lowest, and last price over a given time-interval. We rely on a decision-theoretic approach together with a coupling-type argument to directly tailor the form of the nonparametric estimator to the specific volatility measure of interest and relevant loss function. The resulting new optimal estimators offer substantial efficiency gains compared to existing commonly used range-based procedures.
+                    </p>
+                  </div>
+                  <div class="bibtex-wrap" id="bibtex-3" hidden>
+                    <div class="bibtex-toolbar">
+                      <button class="mini-btn copy-bibtex" type="button" data-target="bibtex-3">Copy</button>
+                      <span class="copy-status" aria-live="polite"></span>
+                    </div>
+                    <pre>@article{bollerslev2024optimal,
+  title={Optimal nonparametric range-based volatility estimation},
+  author={Bollerslev, Tim and Li, Jia and Li, Qiyuan},
+  journal={Journal of Econometrics},
+  volume={238},
+  number={1},
+  pages={105548},
+  year={2024},
+  publisher={Elsevier}
+}</pre>
+                  </div>
+                </div>
+              </div>
+            </article>
+
+            <article class="pub-item">
+              <div class="pub-meta">
+                <div class="pub-number">[4]</div>
+                <div class="pub-main">
+                  <button class="paper-toggle" type="button" data-target="abstract-4" aria-expanded="false">
+                    <span class="pub-title">Testing for Jumps in a Discretely Observed Price Process with Endogenous Sampling Times</span>
+                  </button>
+                  <div class="pub-coauthors">with Yifan Li, Ingmar Nolte, Sandra Nolte, and Shifan Yu</div>
+                  <div class="pub-journal"><strong><em>Journal of Econometrics</em></strong>, 2025, 106132.</div>
+                  <div class="pub-actions">
+                    <a class="mini-btn" href="files/pds_jump.pdf">PDF</a>
+                    <a class="mini-btn" href="files/pds_jumpSUPP.pdf">SUPP</a>
+                    <button class="mini-btn bibtex-toggle" type="button" data-target="bibtex-4" aria-expanded="false">BibTeX</button>
+                  </div>
+                  <div class="abstract-wrap" id="abstract-4" hidden>
+                    <p>
+                      This paper introduces a novel nonparametric high-frequency jump test for discretely observed Itô semimartingales. Based on observations sampled recursively at first exit times from a symmetric double barrier, our method distinguishes between threshold exceedances caused by the Brownian component and jumps, which enables the construction of a feasible, noiserobust statistical test. Simulation results demonstrate superior finite-sample performance of our test compared to existing methods. An empirical analysis of NYSE-traded stocks provides clear statistical evidence for jumps, with the results highly robust to spurious detections.
+                    </p>
+                  </div>
+                  <div class="bibtex-wrap" id="bibtex-4" hidden>
+                    <div class="bibtex-toolbar">
+                      <button class="mini-btn copy-bibtex" type="button" data-target="bibtex-3">Copy</button>
+                      <span class="copy-status" aria-live="polite"></span>
+                    </div>
+                    <pre>@article{li2025testing,
+  title={Testing for jumps in a discretely observed price process with endogenous sampling times},
+  author={Li, Qiyuan and Li, Yifan and Nolte, Ingmar and Nolte, Sandra and Yu, Shifan},
+  journal={Journal of Econometrics},
+  pages={106132},
+  year={2025},
+  publisher={Elsevier}
+}</pre>
+                  </div>
+                </div>
+              </div>
+            </article>
+
+            <article class="pub-item">
+              <div class="pub-meta">
+                <div class="pub-number">[5]</div>
+                <div class="pub-main">
+                  <button class="paper-toggle" type="button" data-target="abstract-5" aria-expanded="false">
+                    <span class="pub-title">Optimal Candlestick-Based Spot Volatility Estimation: New Tricks and Feasible Inference Procedures</span>
+                  </button>
+                  <div class="pub-coauthors">with Tim Bollerslev, Jia Li, and Yifan Li</div>
+                  <div class="pub-journal"><strong><em>Journal of Financial Econometrics</em></strong>, 24(1), 2026, 1-22.</div>
+                  <div class="pub-actions">
+                    <a class="mini-btn" href="files/kcandle.pdf">PDF</a>
+                    <a class="mini-btn" href="files/kcandleSUPP.pdf">SUPP</a>
+                    <button class="mini-btn bibtex-toggle" type="button" data-target="bibtex-5" aria-expanded="false">BibTeX</button>
+                  </div>
+                  <div class="abstract-wrap" id="abstract-5" hidden>
+                    <p>
+                      We contribute to the growing literature on high-frequency spot volatility estimation by deriving a new integral representation for the recently introduced asymptotic minimum risk equivariant (AMRE) candlestickbased class of estimators. Our new theoretical representation enables the practical numerical computation of the hitherto impractical to compute optimal estimators based on multiple adjacent candlesticks. We also propose a new exact sampling scheme for high-frequency candlestick data, which facilitates straightforward calculation of the asymptotic risk and confidence intervals for the estimators. The resulting critical values for the highest-density intervals highlight the substantial efficiency gains from incorporating more than one candlestick in the estimation process. We showcase the practical value of the new techniques in elucidating the behavior of financial market volatility around the time of important news announcements.
+                    </p>
+                  </div>
+                  <div class="bibtex-wrap" id="bibtex-5" hidden>
+                    <div class="bibtex-toolbar">
+                      <button class="mini-btn copy-bibtex" type="button" data-target="bibtex-3">Copy</button>
+                      <span class="copy-status" aria-live="polite"></span>
+                    </div>
+                    <pre>@article{bollerslev2026optimal,
+  title={Optimal candlestick-based spot volatility estimation: New tricks and feasible inference procedures},
+  author={Bollerslev, Tim and Li, Jia and Li, Qiyuan and Li, Yifan},
+  journal={Journal of Financial Econometrics},
+  volume={24},
+  number={1},
+  pages={1-22},
+  year={2026},
+  publisher={Oxford University Press}
+}</pre>
+                  </div>
+                </div>
+              </div>
+            </article>
+          </div>
+        </div>
+
+        <div class="research-group">
+          <h2>Working Papers</h2>
+          <div class="pub-list">
+            <article class="pub-item">
+              <div class="pub-meta">
+                <div class="pub-number">[1]</div>
+                <div class="pub-main">
+                  <button class="paper-toggle" type="button" data-target="wp-abstract-1" aria-expanded="false">
+                    <span class="pub-title">Uniform Inference for High-Frequency Data</span>
+                  </button>
+                  <div class="pub-actions">
+                    <a class="mini-btn" href="files/state.pdf">PDF</a>
+                  </div>
+                  <div class="abstract-wrap" id="wp-abstract-1" hidden>
+                    <p>
+                      We address the uniform inference problem for high-frequency data that includes prices, volumes, and trading flows. Such data is modeled with a general state-space framework, where latent state process is the corresponding risk indicators, e.g., volatility, price jump, average order size, and arrival of events. The functional estimators are formed as the collection of localized estimates across different time points. Although the proposed estimators do not admit a functional central limit theorem, a Gaussian strong approximation, or coupling, is established under in-fill asymptotics to facilitate feasible inference. We apply the proposed methodology to distinguish the informative part from the Federal Open Market Committee speeches, and to analyze the impact of social media activities on cryptocurrency market.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </article>
+
+            <article class="pub-item">
+              <div class="pub-meta">
+                <div class="pub-number">[2]</div>
+                <div class="pub-main">
+                  <button class="paper-toggle" type="button" data-target="wp-abstract-2" aria-expanded="false">
+                    <span class="pub-title">Continuous-Time Volatility Regression in Large Panels</span>
+                  </button>
+                  <div class="pub-coauthors">with Tim Bollerslev, Jia Li, and Congshan Zhang</div>
+                  <div class="abstract-wrap" id="wp-abstract-2" hidden>
+                    <p>
+                      This paper studies a semiparametric inference procedure for a finite-dimensional parameter in a continuous-time regression model involving high-frequency data in a large cross-section. The model concerns the relationship between a noisy dependent process and a possibly nonlinear transform of stochastic volatility over a fixed time span, with its coefficients allowed to depend on a set of firm-specific characteristics. The construction of the estimator involves two steps: the nonparametric recovery of stochastic volatility processes, followed by a parametric second stage that uses the volatility estimates. We show that the estimator admits a central limit theorem and provide a consistent estimator of the asymptotic conditional variance based on a factor-analytic method. The finite sample performance of the inference procedure is satisfactory in a realistically calibrated Monte Carlo setting. In a novel empirical application, we study the relationship between bid-ask spread and the spot standard deviation of asset price. The slope coefficient estimate, which measures the heterogeneous level of information asymmetry, is closely related to firm characteristics such as size, algorithmic trading proxies, and institutional ownership.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="wrapper footer-inner">
+      <div>© Qiyuan Li · HKU Business School</div>
+    </div>
+  </footer>
+
+  <script src="site.js"></script>
+</body>
+</html>

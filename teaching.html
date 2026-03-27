@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Teaching | Qiyuan Li</title>  <link rel="stylesheet" href="styles.css" />
+  <script>
+    (function () {
+      try {
+        var storedTheme = localStorage.getItem('site-theme');
+        var theme = storedTheme || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', theme);
+      } catch (e) {}
+    })();
+  </script>
+
+</head>
+<body>
+    <header class="site-header">
+    <div class="wrapper site-header-inner">
+      <a class="site-title" href="index.html">Qiyuan Li (李琦源)</a>
+
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <nav class="nav" id="site-nav" aria-label="Main navigation">
+        <a href="index.html">Home</a>
+        <a href="cv.html">CV</a>
+        <a href="research.html">Research</a>
+        <a class="active" href="teaching.html">Teaching</a>
+        <a href="misc.html">Misc</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+<div class="wrapper narrow">
+  <section class="card section">
+    <h1 class="page-title">Teaching</h1>
+  </section>
+
+  <section class="card section">
+    <h2>The University of Hong Kong</h2>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Year(s)</th>
+            <th>Course</th>
+            <th>Role</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2025-2026</td>
+            <td>ECON1280 Analysis of Economic Data (UG)</td>
+            <td>Instructor</td>
+          </tr>
+          <tr>
+            <td>2025-2026</td>
+            <td>ECON3225 Big Data Economics (UG)</td>
+            <td>Instructor</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+
+  <section class="card section">
+    <h2>Singapore Management University</h2>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Year(s)</th>
+            <th>Course</th>
+            <th>Role</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2021-2024</td>
+            <td>ECON698 Continuous Time Financial Econometrics (Master)</td>
+            <td>Teaching Assistant</td>
+          </tr>
+          <tr>
+            <td>2023</td>
+            <td>DSA201 Statistical Inference for Data Science (UG)</td>
+            <td>Teaching Assistant</td>
+          </tr>
+          <tr>
+            <td>2020-2021</td>
+            <td>ECON611 Econometrics I (PhD)</td>
+            <td>Teaching Assistant</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="wrapper footer-inner">
+      <div>© Qiyuan Li · HKU Business School</div>
+    </div>
+  </footer>
+
+
+  <script src="site.js"></script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Misc | Qiyuan Li</title>  <link rel="stylesheet" href="styles.css" />
+  <script>
+    (function () {
+      try {
+        var storedTheme = localStorage.getItem('site-theme');
+        var theme = storedTheme || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', theme);
+      } catch (e) {}
+    })();
+  </script>
+
+</head>
+<body>
+    <header class="site-header">
+    <div class="wrapper site-header-inner">
+      <a class="site-title" href="index.html">Qiyuan Li (李琦源)</a>
+
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <nav class="nav" id="site-nav" aria-label="Main navigation">
+        <a href="index.html">Home</a>
+        <a href="cv.html">CV</a>
+        <a href="research.html">Research</a>
+        <a href="teaching.html">Teaching</a>
+        <a class="active" href="misc.html">Misc</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+<div class="wrapper narrow">
+  <section class="card section">
+    <h1 class="page-title">Miscellaneous</h1>
+    <p class="muted">
+      Things orthogonal to my research...
+    </p>
+  </section>
+
+  <section class="card section">
+    <h2>Personal Trainer</h2>
+    <p>
+      I’m a <a href="files/PT_certificate.jpg">certified</a> personal trainer, something I pursued out of a long-term interest in training, health, and building sustainable routines. Happy to chat if you ever want a minimalist plan or a sanity check on your training setup.
+    </p>
+  </section>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="wrapper footer-inner">
+      <div>© Qiyuan Li · HKU Business School</div>
+    </div>
+  </footer>
+
+
+  <script src="site.js"></script>
+</body>
+</html>

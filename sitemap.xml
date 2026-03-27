@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://lqyjasonlee.github.io/</loc>
-</url>
-<url>
-<loc>https://lqyjasonlee.github.io/boardgame/</loc>
-</url>
-<url>
-<loc>https://lqyjasonlee.github.io/cv/</loc>
-</url>
-<url>
-<loc>https://lqyjasonlee.github.io/research/</loc>
-</url>
-<url>
-<loc>https://lqyjasonlee.github.io/teaching/2020-term1-teaching-1</loc>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://lqyjasonlee.github.io/</loc>
+  </url>
+  <url>
+    <loc>https://lqyjasonlee.github.io/cv.html</loc>
+  </url>
+  <url>
+    <loc>https://lqyjasonlee.github.io/research.html</loc>
+  </url>
+  <url>
+    <loc>https://lqyjasonlee.github.io/teaching.html</loc>
+  </url>
+  <url>
+    <loc>https://lqyjasonlee.github.io/misc.html</loc>
+  </url>
+  <url>
+    <loc>https://lqyjasonlee.github.io/contact.html</loc>
+  </url>
 </urlset>

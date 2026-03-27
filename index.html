@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Home | Qiyuan Li</title>  <link rel="stylesheet" href="styles.css" />
+  <script>
+    (function () {
+      try {
+        var storedTheme = localStorage.getItem('site-theme');
+        var theme = storedTheme || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', theme);
+      } catch (e) {}
+    })();
+  </script>
+
+</head>
+<body>
+    <header class="site-header">
+    <div class="wrapper site-header-inner">
+      <a class="site-title" href="index.html">Qiyuan Li (李琦源)</a>
+
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <nav class="nav" id="site-nav" aria-label="Main navigation">
+        <a class="active" href="index.html">Home</a>
+        <a href="cv.html">CV</a>
+        <a href="research.html">Research</a>
+        <a href="teaching.html">Teaching</a>
+        <a href="misc.html">Misc</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+<div class="wrapper narrow">
+  <section class="card hero">
+    <div class="portrait">
+      <img src="assets/qyli_ames2024.jpg" alt="qyli_ames2024" />
+    </div>
+    <div>
+      <h1>Qiyuan Li</h1>
+      <div class="subtitle">Assistant Professor of Economics</div>
+      <p class="affiliations">The University of Hong Kong, Faculty of Business and Economics</p>
+      <p class="keywords">Econometric Theory · Financial Econometrics</p>
+    </div>
+  </section>
+
+  <section class="card section">
+    <h2>Welcome!</h2>
+    <p>
+      I am an assistant professor of economics at HKU Business School. Prior to this, I obtained a Ph.D. in Economics from Singapore Management University in 2024. My research interests are in econometric theory, with a specialization in financial econometrics.
+    </p>
+    <p>
+      “Life is like a high-frequency dataset: full of noise, occasional jumps, and hard-to-detect trends.”
+    </p>
+  </section>
+
+  <div class="counter-block" aria-label="Site visitor map and statistics">
+    <span class="counter-label">Website Statistics</span>
+    <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=3a4066&w=270&t=tt&d=kkNe3r633UJXgttdL9imAX6xpMccjkoQKONGD-T7etA&co=ffffff&cmo=fc1000&cmn=fcb678&ct=000000"></script>
+  </div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="wrapper footer-inner">
+      <div>© Qiyuan Li · HKU Business School</div>
+    </div>
+  </footer>
+
+
+  <script src="site.js"></script>
+</body>
+</html>
