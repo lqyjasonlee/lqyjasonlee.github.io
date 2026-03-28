@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const getPreferredTheme = () => {
     const stored = window.localStorage.getItem(storageKey);
     if (stored === 'light' || stored === 'dark') return stored;
-    return prefersDark && prefersDark.matches ? 'dark' : 'light';
+    return 'light';
   };
 
   const applyTheme = (theme) => {
