@@ -58,6 +58,11 @@ Then link to them using relative paths such as:
 ## Version note
 
 
+### V3
+
+Visual improvement, Apple-like round corners, transparent glasses, and hover effects.
+
+
 ### V2 
 
 1. Local Lato font setup
@@ -68,3 +73,7 @@ This version loads Lato from `assets/fonts/` using `@font-face` instead of Googl
 2. Research-page rebuild
 
 This package includes the research-page interaction: each paper entry is a light-gray clickable card, the abstract toggles by clicking the entry, and BibTeX/PDF controls remain independent.
+
+### V1
+
+Replace the old site with this new version.
