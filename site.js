@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const isInteractiveElement = (element) => {
     return Boolean(
       element.closest(
-        '.pub-actions, .mini-btn, .bibtex-wrap, .bibtex-toolbar, .copy-bibtex, a, button:not(.paper-toggle), pre'
+        '.mini-btn, .bibtex-wrap, .bibtex-toolbar, .copy-bibtex, a, button:not(.paper-toggle), pre'
       )
     );
   };
