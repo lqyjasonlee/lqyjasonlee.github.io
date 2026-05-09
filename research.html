@@ -259,14 +259,12 @@
                 <div class="pub-number">[1]</div>
                 <div class="pub-main">
                   <button class="paper-toggle" type="button" data-target="wp-abstract-1" aria-expanded="false">
-                    <span class="pub-title">Uniform Inference for High-Frequency Data</span>
+                    <span class="pub-title">Continuous-Time Volatility Regression in Large Panels</span>
                   </button>
-                  <div class="pub-actions">
-                    <a class="mini-btn" href="files/state.pdf">PDF</a>
-                  </div>
+                  <div class="pub-coauthors">with Tim Bollerslev, Jia Li, and Congshan Zhang</div>
                   <div class="abstract-wrap" id="wp-abstract-1" hidden>
                     <p>
-                      We address the uniform inference problem for high-frequency data that includes prices, volumes, and trading flows. Such data is modeled with a general state-space framework, where latent state process is the corresponding risk indicators, e.g., volatility, price jump, average order size, and arrival of events. The functional estimators are formed as the collection of localized estimates across different time points. Although the proposed estimators do not admit a functional central limit theorem, a Gaussian strong approximation, or coupling, is established under in-fill asymptotics to facilitate feasible inference. We apply the proposed methodology to distinguish the informative part from the Federal Open Market Committee speeches, and to analyze the impact of social media activities on cryptocurrency market.
+                      This paper studies a semiparametric inference procedure for a finite-dimensional parameter in a continuous-time regression model involving high-frequency data in a large cross-section. The model concerns the relationship between a noisy dependent process and a possibly nonlinear transform of stochastic volatility over a fixed time span, with its coefficients allowed to depend on a set of firm-specific characteristics. The construction of the estimator involves two steps: the nonparametric recovery of stochastic volatility processes, followed by a parametric second stage that uses the volatility estimates. We show that the estimator admits a central limit theorem and provide a consistent estimator of the asymptotic conditional variance based on a factor-analytic method. The finite sample performance of the inference procedure is satisfactory in a realistically calibrated Monte Carlo setting. In a novel empirical application, we study the relationship between bid-ask spread and the spot standard deviation of asset price. The slope coefficient estimate, which measures the heterogeneous level of information asymmetry, is closely related to firm characteristics such as size, algorithmic trading proxies, and institutional ownership.
                     </p>
                   </div>
                 </div>
@@ -278,12 +276,35 @@
                 <div class="pub-number">[2]</div>
                 <div class="pub-main">
                   <button class="paper-toggle" type="button" data-target="wp-abstract-2" aria-expanded="false">
-                    <span class="pub-title">Continuous-Time Volatility Regression in Large Panels</span>
+                    <span class="pub-title">Uniform Inference for High-Frequency Data</span>
                   </button>
-                  <div class="pub-coauthors">with Tim Bollerslev, Jia Li, and Congshan Zhang</div>
+                  <div class="pub-actions">
+                    <a class="mini-btn" href="files/state.pdf">PDF</a>
+                  </div>
                   <div class="abstract-wrap" id="wp-abstract-2" hidden>
                     <p>
-                      This paper studies a semiparametric inference procedure for a finite-dimensional parameter in a continuous-time regression model involving high-frequency data in a large cross-section. The model concerns the relationship between a noisy dependent process and a possibly nonlinear transform of stochastic volatility over a fixed time span, with its coefficients allowed to depend on a set of firm-specific characteristics. The construction of the estimator involves two steps: the nonparametric recovery of stochastic volatility processes, followed by a parametric second stage that uses the volatility estimates. We show that the estimator admits a central limit theorem and provide a consistent estimator of the asymptotic conditional variance based on a factor-analytic method. The finite sample performance of the inference procedure is satisfactory in a realistically calibrated Monte Carlo setting. In a novel empirical application, we study the relationship between bid-ask spread and the spot standard deviation of asset price. The slope coefficient estimate, which measures the heterogeneous level of information asymmetry, is closely related to firm characteristics such as size, algorithmic trading proxies, and institutional ownership.
+                      We address the uniform inference problem for high-frequency data that includes prices, volumes, and trading flows. Such data is modeled with a general state-space framework, where latent state process is the corresponding risk indicators, e.g., volatility, price jump, average order size, and arrival of events. The functional estimators are formed as the collection of localized estimates across different time points. Although the proposed estimators do not admit a functional central limit theorem, a Gaussian strong approximation, or coupling, is established under in-fill asymptotics to facilitate feasible inference. We apply the proposed methodology to distinguish the informative part from the Federal Open Market Committee speeches, and to analyze the impact of social media activities on cryptocurrency market.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </article>
+
+            <article class="pub-item">
+              <div class="pub-meta">
+                <div class="pub-number">[3]</div>
+                <div class="pub-main">
+                  <button class="paper-toggle" type="button" data-target="wp-abstract-3" aria-expanded="false">
+                    <span class="pub-title">Estimating Correlations and Reading the News by Candlesticks</span>
+                  </button>
+                  <div class="pub-coauthors">with Tim Bollerslev, Jia Li, and Yifan Li</div>
+                  <div class="pub-actions">
+                    <a class="mini-btn" href="files/candlecorr.pdf">PDF</a>
+                    <a class="mini-btn" href="files/candlecorrSUPP.pdf">SUPP</a>
+                  </div>
+                  <div class="abstract-wrap" id="wp-abstract-3" hidden>
+                    <p>
+                      We develop a new class of nonparametric spot correlation estimators based on high-frequency candlestick data comprising open, close, high, and low prices over short intraday time intervals. The new estimators augment the conventional return-based estimator with a signed asymmetry feature. We establish consistency and mixed normality in a traditional large-estimation-window in-fill asymptotic setting. We also develop a fixed-$k$ asymptotic framework and confidence intervals that achieve near-nominal finite-sample coverage with very few candlesticks. Simulations further demonstrate substantial mean-squared-error reductions over return-based estimators and robustness to market microstructure noise. Relying on one-minute candlesticks, we find that FOMC announcements systematically raise stock-bond correlations, consistent with a discount-rate channel interpretation of the news, while President Trump's tariff-related posts affect more dispersed changes in the correlations. The empirical results highlight the value of the new candlestick-based spot estimators for capturing rapid changes in asset comovements around economic news and illuminating the economic transmission mechanisms at work.
                     </p>
                   </div>
                 </div>
@@ -297,7 +318,7 @@
 
   <footer class="footer">
     <div class="wrapper footer-inner">
-      <div>© Qiyuan Li · HKU Business School</div>
+      <div>© <span id="year"></span> Qiyuan Li</div>
     </div>
   </footer>
 
